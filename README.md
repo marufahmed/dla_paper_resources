@@ -1,4 +1,7 @@
-# Process to calculate Intersection Over Union of Deep Learning Based Document Layout Analysis model's Inference:
+# Process to calculate Intersection Over Union of Deep Learning Based Document Layout Analysis for the paper 'Optimum Deep Learning method for Document Layout Analysis in Low Resource Languages'
+
+Resources
+
 
 ## Inference
 - [Document Image Transformer] (https://huggingface.co/spaces/nielsr/dit-document-layout-analysis)
