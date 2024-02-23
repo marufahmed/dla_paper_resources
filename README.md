@@ -4,12 +4,12 @@ Resources
 
 
 ## Inference
-- [Document Image Transformer] (https://huggingface.co/spaces/nielsr/dit-document-layout-analysis)
-- [Layout LM] (https://huggingface.co/spaces/nihalbaig/layoutlmv3_official_document)
+- [Document Image Transformer](https://huggingface.co/spaces/nielsr/dit-document-layout-analysis).
+- [Layout LM](https://huggingface.co/spaces/nihalbaig/layoutlmv3_official_document).
 - Custom Trained YoloV8 was inferred on local system
 
 ## Resize
-To normalize the pixel values of images, inferred images were resized using [resize.ipynb](https://github.com/marufahmed/dla_paper_resources/blob/master/resize.ipynb)
+To normalize the pixel values of images, inferred images were resized using [resize.ipynb](https://github.com/marufahmed/dla_paper_resources/blob/master/resize.ipynb).
 
 ## Annotation
 To create the annotations for inferred predictions, [labelme](https://github.com/labelmeai/labelme) was used. The classes that were labeled are as follows:
