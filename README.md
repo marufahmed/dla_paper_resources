@@ -36,6 +36,6 @@ Individual & collective IOU comparison was measured using [iou_comparison.ipynb]
 | Layout LM                 | Paragraph | 11       | 0.723   | 6        | 0.783   | 8       | 0.699    | 16      | 0.843    |
 | Layout LM                 | Table     | 0        | 0       | 0        | 0       | 0       | 0        | 0       | 0.798    |
 | Layout LM                 | Image     | 0        | 0       | 1        | 0.898   | 0       | 0        | 2       |          |
-| Yolo V8 Pretrained        | Paragraph | 12       | 0.659   | 6        | 0.788   |         |          |         |          |
-| Yolo V8 Pretrained        | Table     | 0        | 0.749   | 0        | 0       |         |          |         |          |
-| Yolo V8 Pretrained        | Image     | 0        | 0       | 1        | 0.904   |         |          |         |          |
+| Yolo V8 Pretrained        | Paragraph | 12       | 0.659   | 6        | 0.788   |    -     |     -     |     -    |-          |
+| Yolo V8 Pretrained        | Table     | 0        | 0.749   | 0        | 0       |     -    |       -   |    -     |-          |
+| Yolo V8 Pretrained        | Image     | 0        | 0       | 1        | 0.904   |    -     |      -    |      -   |-          |
